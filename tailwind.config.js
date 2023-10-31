@@ -26,6 +26,7 @@ module.exports = {
         orange:{
           500:'#F83B01'
         },
+        
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
